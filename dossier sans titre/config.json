@@ -1,0 +1,8 @@
+[
+    {
+        "name": "Le Part",
+        "token": "process.env.TOKEN",
+        "adminIDs": "306081415643004928",
+        "guildID": "564864954755448842"
+    }
+]
